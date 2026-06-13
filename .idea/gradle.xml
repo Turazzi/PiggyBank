@@ -6,6 +6,11 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/cofrinho-api" />
         <option name="gradleJvm" value="ms-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/cofrinho-api" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
